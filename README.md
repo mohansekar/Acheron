@@ -1,7 +1,26 @@
 
 <img align="right" src="https://github.com/Acheron-VAF/Acheron/blob/master/gui/public/img/logo.png" height="150px" width="150px">
 
-# Acheron
+# Acheron (In Development)
+
+Acheron is a RESTful vulnerability assessment and management framework built around search and dedicated to terminal extensibility. The framework was designed operating system agnostic and supports all major CPU architectures as well. The tool is built around a phased approach to vulnerability assessment that ensures quality by enforcing simplicity and enhancing productivity through search.
+
+Acheron Performs 5 Primary Functions:
+* Normalization of Vulnerability Data
+ * Supports many data types including: Nessus, Acunetix, Grendel, Burp, Nmap, Nikto, Nexpose, Zap, Retina, and More
+ * Input threat models, intelligence, and risks
+* Search
+ * Acheron is built around search in order to inform and enhance rapid data analysis
+ * Your own personal Google to empower Prioritization, Triage, Remediation, and Reporting
+* Automation
+ * Incorporate authorized system/software inventories and watch them update based on real world data
+ * Automated corelation of vulnerability data to organization specific threats
+* Data Management
+ * Track, categorize, and remediate vulnerabilities
+ * Triage and assign risk ratings
+* Terminal Extensibility
+ * All data managed by Acheron can be accessed directly from the command line through both Bash and PowerShell
+ * This enables rapid remediation opportunity and infinite yet simplistic extensibility
 
 The Open Source Security Assessment Management System (OSSAMS) will be presented, which is a framework for the automation, data collection, analysis, and reporting in penetration testing and vulnerability assessment efforts. OSSAMS is written in Python and allows for the processing of tool results, parsing and normalizing the data, extraction of meaningful information via query, and more effective analysis.
 
