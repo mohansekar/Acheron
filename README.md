@@ -15,3 +15,24 @@ Acheron follows the Vulnerability Assessment Framework and associated tactics, t
 * 05 | Validation
 * 06 | Remediation
 * 07 | Reporting
+
+
+## Development
+
+* Acheron Tech Stack
+ * Python Parsers
+ * MySQL Backend Database
+ * Electron App GUI
+  * Javascript
+  * ReactJS
+  * JSON Configuration Files
+  
+* Building the GUI
+ * Install npm
+ * cd to gui/
+ * run: npm install webpack
+ * run: npm install -g electron
+ * run: webpack
+ * run: electron .
+ * GUI should popup
+  
