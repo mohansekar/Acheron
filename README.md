@@ -6,19 +6,19 @@
 Acheron is a RESTful vulnerability assessment and management framework built around search and dedicated to terminal extensibility. The framework was designed operating system agnostic and supports all major CPU architectures as well. The tool is built around a phased approach to vulnerability assessment that ensures quality by enforcing simplicity and enhancing productivity through search.
 
 Acheron Performs 5 Primary Functions:
-* Normalization of Vulnerability Data
+1. Normalization of Vulnerability Data
  * Supports many data types including: Nessus, Acunetix, Grendel, Burp, Nmap, Nikto, Nexpose, Zap, Retina, and More
  * Input threat models, intelligence, and risks
-* Search
+2. Search
  * Acheron is built around search in order to inform and enhance rapid data analysis
  * Your own personal Google to empower Prioritization, Triage, Remediation, and Reporting
-* Automation
+3. Automation
  * Incorporate authorized system/software inventories and watch them update based on real world data
  * Automated corelation of vulnerability data to organization specific threats
-* Data Management
+4. Data Management
  * Track, categorize, and remediate vulnerabilities
  * Triage and assign risk ratings
-* Terminal Extensibility
+5. Terminal Extensibility
  * All data managed by Acheron can be accessed directly from the command line through both Bash and PowerShell
  * This enables rapid remediation opportunity and infinite yet simplistic extensibility
 
