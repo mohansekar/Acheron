@@ -37,3 +37,13 @@ Acheron follows the Vulnerability Assessment Framework and associated tactics, t
  * GUI should popup
   
 Binary distributions available: [exe](https://github.com/Acheron-VAF/Acheron-Dist)
+
+
+
+##Project Architecture
+Acheron supports many OS and CPU builds via system agnostic design choices; however, it must be built to accomodate each. This (the main project archive) contains binary distributions for all major OS/CPU builds. It also contains all src/dev files.
+
+This design was chosen so that anyone can download the main archive and use the tool. For leaner, OS Specific builds, see the Binary Distribution Repository: [dist](https://github.com/Acheron-VAF/Acheron-Dist)
+
+For a lightweght src only build, download the src branch.
+

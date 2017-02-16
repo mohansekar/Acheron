@@ -1,0 +1,3 @@
+This directory will have all binary builds of Acheron dependancy scripts: parsers, db management, setup, etc.
+
+Main OS executables will execute functionality by execing contents of this dir
