@@ -3,6 +3,8 @@ var webpack = require('webpack');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
 var ExtractTextPlugin = require('extract-text-webpack-plugin');
 
+const ElectronPackager = require("webpack-electron-packager");
+
 module.exports = {
     devtool: 'source-map',
     entry: [
@@ -13,6 +15,14 @@ module.exports = {
         filename: 'bundle.js',
         publicPath: '/'
     },
+    /*
+    plugins: [
+        new ElectronPackager({
+          dir: "./",
+          arch: "x64",
+          platform: "win32",
+        })
+    ],*/
     module: {
         loaders: [
             {

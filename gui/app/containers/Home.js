@@ -31,7 +31,6 @@ class Layout extends Component {
       <StyleRoot>
         <div className="container">
           <Dashboard />
-          <Search />
         </div>
       </StyleRoot>
     );

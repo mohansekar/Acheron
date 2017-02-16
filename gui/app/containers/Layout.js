@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import Radium, { Style }  from 'radium';
 import {StyleRoot} from 'radium';
+import Nav from '../containers/Nav';
+import Panel from '../containers/Panel';
 
 class Layout extends Component {
   constructor(props) {
@@ -9,7 +11,7 @@ class Layout extends Component {
   }
   getStyles() {
     const bgcolor = {
-      default: "#202020"
+      default: "#2b2e3f"
     }
     return {
       landingFooter: {
@@ -18,6 +20,11 @@ class Layout extends Component {
         left: "0",
         right: "0",
         width: "100%"
+      },
+      contWindow: {
+        position: "absolute",
+        top: "50px",
+        left: "50px"
       }
     };
   }
@@ -28,12 +35,14 @@ class Layout extends Component {
       <StyleRoot>
         <Style rules={{
           body: {
-            backgroundColor: "#202020",
-            color: "#717174",
+            backgroundColor: "#2b2e3f",
+            color: "#8389a0",
             fontFamily: 'Helvetica Neue, Helvetica, Arial, sans-serif'
           }
         }} />
-        <div>
+        <Nav />
+        <Panel />
+        <div style={[styles.contWindow]}>
           {this.props.children}
         </div>
       </StyleRoot>
