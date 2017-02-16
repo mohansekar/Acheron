@@ -36,3 +36,4 @@ Acheron follows the Vulnerability Assessment Framework and associated tactics, t
  * run: electron .
  * GUI should popup
   
+Binary distributions available: [exe](https://github.com/Acheron-VAF/Acheron-Dist)
