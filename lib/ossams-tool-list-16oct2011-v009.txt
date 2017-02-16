@@ -1,0 +1,58 @@
+Completed:
+
+acunetix,		burp,			grendel,
+nessus,			netsparker,		nexpose c,
+nikto,			nmap,			ratproxy,
+retina c, 		skipfish,		sslscan,		
+w3af, 			wapiti, 		watcher,		
+websecurify, 	zap.
+
+In progress:
+
+sandcat, appscan, fierce		
+
+Roadmap XML:
+
+wsfuzzer,		arachni, 		sandcat,
+webinspect,		proxystrike,	iss,
+ncircle,		nexpose, 		webcruiser,
+retina,			languard, 		core impact,
+fierce, 		saint, 			metasploit,
+httprint,		openvas, 		n-stalker,
+xprobe2, 		ntospider.
+		
+
+Roadmap HTML:
+
+paros
+	
+Roadmap text:
+
+ping, 			arping, 		ikescan
+whois, 			dig, 			host
+icmpquery,		amap
+
+??
+qualysguard, sara, mbsa
+
+#
+#    This file is part of the ossams-parser.
+#
+#    The ossams-parser is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    The ossams-parser is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with the ossams-parser.  If not, see <http://www.gnu.org/licenses/>.
+#
+
+
+
+
+

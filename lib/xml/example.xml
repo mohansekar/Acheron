@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<books rootattrib="something about root" version="1.0">
+	<title>Title of the first book</title>
+	<date attrib1="value1" attrib2="value2">2011-01-01</date>
+	<other attrib2="yada">You got me</other>
+	tail
+	<title attrib1="attrib1value" attrib2="attrib2value">Another title to find</title> 
+	<date attrib="yada">2011-02-28</date>
+	<secondlevel>
+		<title>Only on the second level title</title>
+		<date attrib="yada2" foo="bar" form="secondlevelform">2000-01-01</date>
+	</secondlevel>
+	<series>
+		<book1>Book1 in the series
+			<isbn>12345</isbn>
+		</book1>
+		<book2>Book2 in the series
+			<isbn>12346</isbn>
+		</book2>
+		<book3>Book3 in the series
+			<isbn/>
+		</book3>
+	</series>
+</books>
