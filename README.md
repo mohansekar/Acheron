@@ -3,13 +3,13 @@
 
 # Acheron (In Development)
 
-[![Platform](https://img.shields.io/badge/Platform-WIndows%20%7C%20Linux%20%7C%20OSX-green.svg)]
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]
-[![Version](https://img.shields.io/badge/Version-0.01-green.svg)]
-[![Code](https://img.shields.io/badge/Code-Python%20%7C%20Javascript%20%7C%20ReactJS%20%7C%20MySQL%20%7C%20Electron%20%7C%20JSON-green.svg)]
-[![Gem Version](http://img.shields.io/gem/v/suchgem.svg)]
-[![License](http://img.shields.io/:license-mit-blue.svg)]
-[![Badges](http://img.shields.io/:badges-7/7-ff6799.svg)]
+![Platform](https://img.shields.io/badge/Platform-WIndows%20%7C%20Linux%20%7C%20OSX-green.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Version](https://img.shields.io/badge/Version-0.01-green.svg)
+![Code](https://img.shields.io/badge/Code-Python%20%7C%20Javascript%20%7C%20ReactJS%20%7C%20MySQL%20%7C%20Electron%20%7C%20JSON-green.svg)
+![Gem Version](http://img.shields.io/gem/v/suchgem.svg)
+![License](http://img.shields.io/:license-mit-blue.svg)
+![Badges](http://img.shields.io/:badges-7/7-ff6799.svg)
 
 
 [![Supported OS](https://img.shields.io/badge/Supported%20OS-Linux-yellow.svg) ![License](https://img.shields.io/badge/license-GPLv3-blue.svg) ![CORE](https://img.shields.io/badge/core-1.0.0.1-green.svg)![Build](https://img.shields.io/badge/BUILD-0068-red.svg)![Modules](https://img.shields.io/badge/modules-37-green.svg) ![Python](https://img.shields.io/badge/Python-2.7-green.svg) [![Build Status](https://travis-ci.org/PowerScript/KatanaFramework.svg?branch=master)](https://travis-ci.org/PowerScript/KatanaFramework)
