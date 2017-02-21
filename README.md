@@ -7,9 +7,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Version](https://img.shields.io/badge/Version-0.01-green.svg)
 ![Code](https://img.shields.io/badge/Code-Python%20%7C%20Javascript%20%7C%20ReactJS%20%7C%20MySQL%20%7C%20Electron%20%7C%20JSON-green.svg)
-![Gem Version](http://img.shields.io/gem/v/suchgem.svg)
-![License](http://img.shields.io/:license-mit-blue.svg)
-![Badges](http://img.shields.io/:badges-7/7-ff6799.svg)
 
 Acheron is a RESTful vulnerability assessment and management framework built around search and dedicated to terminal extensibility. The framework was designed operating system agnostic and supports all major CPU architectures as well. The tool is built around a phased approach to vulnerability assessment that ensures quality by enforcing simplicity and enhancing productivity through search.
 
